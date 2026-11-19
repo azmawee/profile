@@ -77,7 +77,7 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Engineer** di Bank
 | [**notegrit**](https://github.com/azmawee/notegrit) [![Stars](https://img.shields.io/github/stars/azmawee/notegrit?style=social)](https://github.com/azmawee/notegrit) | Editor teks **plain-text** untuk Windows 10/11, satu fail **16 KB** `.exe`. Tiada runtime, tiada .NET, tiada Electron, pure x86 assembly. Buka pantas, ingat tema gelap dan zoom, kira perkataan live, edit fail besar, installer assembly sendiri. Lesen BSD-2-Clause. | Assembly |
 | [**EmperorReborn**](https://github.com/azmawee/EmperorReborn) [![Stars](https://img.shields.io/github/stars/azmawee/EmperorReborn?style=social)](https://github.com/azmawee/EmperorReborn) | Main **Emperor: Battle for Dune** atas Windows 10/11 dengan widescreen 16:9 sebenar, fullscreen, dan multiplayer berfungsi. Launcher dan patcher open-source untuk RTS Westwood. | C |
 | [**maui-web-explorer**](https://github.com/azmawee/maui-web-explorer) | File explorer PHP dalam **satu fail** je. Zero dependency, tak payah database. Stream fail besar dengan resume (HTTP Range), sokong symlink, ada preview media. Jalan atas Apache, Nginx, atau mana-mana pelayan PHP. Lesen BSD-2-Clause. | PHP |
-| [**seni-freebsd**](https://github.com/azmawee/seni-freebsd) | Rujukan buku FreeBSD: **Seni Membina Rangkaian Rumah Moden**. | Shell |
+| [**seni-freebsd**](https://github.com/azmawee/seni-freebsd) | Rujukan buku FreeBSD, **Seni Membina Rangkaian Rumah Moden**. Live di [seni.freebsd.my](https://seni.freebsd.my/). | Shell |
 | [**DMARC_SPF_Changes_Check**](https://github.com/azmawee/DMARC_SPF_Changes_Check) | Pantau perubahan rekod **DMARC dan SPF** untuk domain. | Shell |
 | [**Maui-AI-Gajah-Terbang**](https://github.com/azmawee/Maui-AI-Gajah-Terbang) | Pembantu penyelidikan berasaskan Streamlit, local LLM (LM Studio) dengan carian DuckDuckGo. | Python |
 | [**mini-heist**](https://github.com/azmawee/mini-heist) | Permainan kecil untuk konsol **Playdate**. | Lua |
@@ -124,8 +124,9 @@ fingerprint 8BF7 D0AF CA45 5313 A3BF  ACFB B90B 66C7 712D AA69
 
 - 🌐 [azmawee.freebsd.my](https://azmawee.freebsd.my) - blog peribadi
 - 🐡 [freebsd.my](https://freebsd.my) - komuniti FreeBSD Malaysia
+- [seni.freebsd.my](https://seni.freebsd.my/) - buku FreeBSD
 - 💬 GitHub: [@azmawee](https://github.com/azmawee)
-- 📘 Facebook: [facebook.com/azmawee](https://www.facebook.com/azmawee)
+- 📘 Facebook: [facebook.com/maui512gbram](https://www.facebook.com/maui512gbram)
 
 <div align="center">
 
