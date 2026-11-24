@@ -4,7 +4,7 @@
 
 # 👋 Salam, saya Azmawee
 
-### ex-BNM · ex-CIMB · hidup bebas berjejak bumi
+ex-BNM, ex-CIMB, berperisai siber, berkod terbuka, berjejak bumi
 
 **Automation · AI · Cybersecurity** itu fokus saya sekarang.
 Sebelum ni saya bekerja dalam keselamatan siber dan kejuruteraan
